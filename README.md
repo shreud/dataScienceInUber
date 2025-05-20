@@ -100,15 +100,15 @@ To get a copy of the project up and running on your local machine, follow these 
 A typical layout for this project would be:
 
 .
-├── main.py
-├── data/
-│   └── uber_trips.csv
-├── screenshots/
-│   └── app_screenshot_1.png
-│   └── plot_demo.gif
-├── README.md
-└── requirements.txt
-└── LICENSE
+├── main.py <br>
+├── data/ <br>
+│   └── uber_trips.csv <br>
+├── screenshots/ <br>
+│   └── app_screenshot_1.png <br>
+│   └── plot_demo.gif <br>
+├── README.md <br>
+└── requirements.txt <br>
+└── LICENSE <br>
 
 
 ## Challenges & Learnings
